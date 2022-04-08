@@ -1,0 +1,7 @@
+print('Как вас зовут')
+name = input()
+print('Как ваша фамилия')
+name = input()
+print('Как ваша отчество')
+name = input()
+print('Нуров', 'Айбек', 'Алиевич', sep='-', end='\n')
